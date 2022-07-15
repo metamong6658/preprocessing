@@ -1,2 +1,2 @@
-verilog/** linguist-documentation=false
-verilog/** linguist-vendored=false
+* linguist-vendored
+*.verilog linguist-vendored=false
